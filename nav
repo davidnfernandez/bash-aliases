@@ -1,0 +1,5 @@
+code=~/GitHub
+
+alias bgum='cd $code/bubblegum'
+alias gwrap='cd $code/gumwrap'
+alias bas='cd ~/.bash_aliases'
