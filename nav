@@ -1,6 +1,7 @@
 #Path variables
 code=~/GitHub
 bgum=$code/bubblegum
+bash_aliases=~/.bash_aliases
 
 # Repos
 alias bgum='cd $bgum'
@@ -9,4 +10,4 @@ alias cur='cd $bgum/products/command-center/libs/curriculum-interactions'
 # Children of Repos
 
 # Other
-alias bas='cd ~/.bash_aliases'
+alias ba='cd $bash_aliases'

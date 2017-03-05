@@ -1,1 +1,2 @@
 alias gs='git status'
+alias gac='git add . && git commit'
