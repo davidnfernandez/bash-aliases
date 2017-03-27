@@ -8,6 +8,7 @@ xenithor=$bgum/xenithor
 alias bgum='cd $bgum'
 alias gwrap='cd $code/gumwrap'
 alias xen='cd $xenithor'
+alias xenweb='cd $xenithor/app/web'
 alias cur='cd $xenithor/libs/curriculum-interactions'
 # Children of Repos
 
