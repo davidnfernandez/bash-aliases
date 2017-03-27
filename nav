@@ -2,11 +2,13 @@
 code=~/GitHub
 bgum=$code/bubblegum
 bash_aliases=~/.bash_aliases
+xenithor=$bgum/xenithor
 
 # Repos
 alias bgum='cd $bgum'
 alias gwrap='cd $code/gumwrap'
-alias cur='cd $bgum/products/command-center/libs/curriculum-interactions'
+alias xen='cd $xenithor'
+alias cur='cd $xenithor/libs/curriculum-interactions'
 # Children of Repos
 
 # Other
